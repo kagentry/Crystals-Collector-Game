@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+	margin: 0 0 5px 5px;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+}
+
+img {
+	height: 50px;
+	width: 75px;
+}
+.header {
+	background: orange;
+	color: white;
+}
+.instructions {
+	background: yellow;
+	color: green;
+}
+.total {
+	background: #69A583;
+	color: white;
+}
+#winLoss {
+	background: #7ec0ee;
+}
+#compNum {
+	background: #5fd472;
+	color: purple;
+	height: 58px;
+}
